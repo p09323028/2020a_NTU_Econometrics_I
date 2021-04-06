@@ -1,6 +1,6 @@
 # 2020a_NTU_Econometrics_I
 
-- Class: Economics:empirical Study and Forecasting (I) 
+- Course: Economics:empirical Study and Forecasting (I) 
 
 - Session: 109-1
 
