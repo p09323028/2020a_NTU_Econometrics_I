@@ -2,7 +2,7 @@
 
 **Course:** Economics:empirical Study and Forecasting (I) 
 
-**Session:** 109-2
+**Session:** 109-1
 
 **Professor:** Ming-Ching Luoh
 
