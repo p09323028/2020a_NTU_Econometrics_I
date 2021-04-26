@@ -6,6 +6,6 @@
 
 **Session:** 109-1
 
-**Professor:** Lichung Jen
+**Professor:** Ming-Ching Luoh
 
-**Textbook:** 大數據行銷：邁向智能行銷之路
+**Textbook:** Stock and Watson (2020), Introduction to Econometrics, Addision Wesley, 4th edition.
